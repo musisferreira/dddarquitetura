@@ -28,9 +28,11 @@ Data -> dados assincronos e sincronos, banco de dados, API, Internet, Model ver 
 
 Core -> Para ajuda de toda a estrutura.
 
-Duvidas estarem no discord sempre que possivel.
+Duvidas estarei no discord sempre que possivel.
 
 Lembre-se que esse trabalho são para iniciantes, criticas que não são construtivas serão ignoradas!!
+
+Nosso objetivo e apenas ajudar, abraços!!
 
 
 
