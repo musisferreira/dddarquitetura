@@ -21,13 +21,16 @@ Data.
 Core.
 
 Presantation -> telas.
+
 Domain -> Tem acesso á Presantatio e Repository
+
 Data -> dados assincronos e sincronos, banco de dados, API, Internet, Model ver Dataapi e DataApi vesualiza Repository
+
 Core -> Para ajuda de toda a estrutura.
 
 Duvidas estarem no discord sempre que possivel.
 
-Lembre-se que esse trabalho são para iniciantes, critacas que não são construtivas serão ignoradas!!
+Lembre-se que esse trabalho são para iniciantes, criticas que não são construtivas serão ignoradas!!
 
 
 
