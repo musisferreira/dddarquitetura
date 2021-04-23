@@ -31,7 +31,7 @@ Core -> Para ajuda de toda a estrutura.
 
 Duvidas estarei no discord sempre que possivel.
 
-Lembre-se que esse trabalho são para iniciantes, criticas que não são construtivas serão ignoradas!!
+Lembre-se que esse trabalho são para iniciantes, qualquer ajudar será bem-vinda, e se gosta manda uma estrela.
 
 Nosso objetivo e apenas ajudar, abraços!!
 
