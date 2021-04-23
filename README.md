@@ -22,9 +22,10 @@ Core.
 
 Presantation -> telas.
 
-Domain -> Tem acesso á Presantation e Repository
+Domain -> Tem acesso á Presantation e Repository, sua regra de negócio fica aqui!
 
-Data -> dados assincronos e sincronos, banco de dados, API, Internet, Model ver Dataapi e DataApi vesualiza Repository
+Data -> dados assincronos e sincronos, banco de dados, API, Internet, Model ver Dataapi e DataApi vesualiza Repository,
+e o Repository será visto pelo domain.
 
 Core -> Para ajuda de toda a estrutura.
 
