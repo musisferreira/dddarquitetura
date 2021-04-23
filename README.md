@@ -16,8 +16,11 @@ Depois você vai acrecentando pasta e dados de acordo com o crecimento do seu pr
 Divisão Inicial:
 
 Presantation.
+
 Domain.
+
 Data.
+
 Core.
 
 Presantation -> telas, será visto pelo -> domain
