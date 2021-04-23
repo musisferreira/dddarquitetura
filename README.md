@@ -41,6 +41,8 @@ Duvidas estarei no discord sempre que possivel.
 
 Lembre-se que esse trabalho são para iniciantes, qualquer ajudar será bem-vinda, e se gosta manda uma estrela.
 
+link discord: https://discord.gg/UkKC3vs
+
 Nosso objetivo e apenas ajudar, abraços!!
 
 
