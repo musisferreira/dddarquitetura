@@ -6,7 +6,7 @@ part 'counter_state.dart';
 ///
 /// Será aqui, poderá ser bloc, RiverPod, Mobx o que vc dominar.
 ///
-/// Esta camada domain, visualizará seu repository e seu presantiton somente isso.
+/// Esta camada domain, visualizará seu repository e seu presentation somente isso.
 
 
 class CounterCubit extends Cubit<int> {
