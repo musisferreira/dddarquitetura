@@ -22,7 +22,7 @@ Core.
 
 Presantation -> telas.
 
-Domain -> Tem acesso á Presantatio e Repository
+Domain -> Tem acesso á Presantation e Repository
 
 Data -> dados assincronos e sincronos, banco de dados, API, Internet, Model ver Dataapi e DataApi vesualiza Repository
 
